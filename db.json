@@ -68,5 +68,42 @@
       "disciplinaId": 1,
       "ano": 2017
     }
+  ],
+  "usuarios": [
+    {
+      "nome": "Gustavo",
+      "senha": "euamoeu"
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Turalyon",
+      "id": 1
+    },
+    {
+      "nome": "Illidan",
+      "id": 2
+    },
+    {
+      "nome": "Guldan",
+      "id": 3
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Gustavo",
+      "disciplinaId": 6,
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "disciplinaId": 3,
+      "id": 3
+    },
+    {
+      "nome": "Teste 2",
+      "disciplinaId": null,
+      "id": 4
+    }
   ]
 }
