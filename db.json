@@ -71,8 +71,9 @@
   ],
   "usuarios": [
     {
+      "id": 1,
       "nome": "Gustavo",
-      "senha": "euamoeu"
+      "senha": "1234"
     }
   ],
   "pessoas": [
