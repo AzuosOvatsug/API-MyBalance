@@ -1,110 +1,34 @@
 {
-  "disciplinas": [
-    {
-      "id": 1,
-      "codigo": "001",
-      "nome": "Português"
-    },
-    {
-      "id": 2,
-      "codigo": "002",
-      "nome": "Matemática"
-    },
-    {
-      "id": 3,
-      "codigo": "003",
-      "nome": "Geografia"
-    },
-    {
-      "id": 4,
-      "codigo": "004",
-      "nome": "História"
-    },
-    {
-      "id": 5,
-      "codigo": "005",
-      "nome": "Química"
-    },
-    {
-      "id": 6,
-      "codigo": "006",
-      "nome": "Física"
-    },
-    {
-      "codigo": "010",
-      "nome": "Filosofia",
-      "id": 7
-    },
-    {
-      "codigo": "011",
-      "nome": "Educação Física",
-      "id": 8
-    },
-    {
-      "codigo": "012",
-      "nome": "Educação Moral e Cívica",
-      "id": 9
-    },
-    {
-      "codigo": "013",
-      "nome": "Artes",
-      "id": 10
-    },
-    {
-      "codigo": "014",
-      "nome": "Música",
-      "id": 11
-    },
-    {
-      "codigo": "012",
-      "nome": "Teste",
-      "id": 12
-    }
-  ],
-  "turmas": [
-    {
-      "id": 1,
-      "codigo": "001",
-      "disciplinaId": 1,
-      "ano": 2017
-    }
-  ],
   "usuarios": [
     {
       "id": 1,
       "nome": "Gustavo",
-      "senha": "1234"
-    }
-  ],
-  "pessoas": [
-    {
-      "nome": "Turalyon",
-      "id": 1
+      "email": "gustavo2@gmail.com",
+      "senha": "1234",
+      "datanasc": "1889-01-15",
+      "altura": 185,
+      "peso": 80,
+      "sexo": "Masculino"
     },
     {
-      "nome": "Illidan",
-      "id": 2
+      "id": 2,
+      "nome": "Fabio",
+      "email": "fabio@gmail.com",
+      "senha": "fabio",
+      "datanasc": "1990-05-04",
+      "altura": 165,
+      "peso": 85,
+      "sexo": "Masculino"
     },
     {
-      "nome": "Guldan",
-      "id": 3
-    }
-  ],
-  "professores": [
-    {
-      "nome": "Gustavo",
-      "disciplinaId": 6,
-      "id": 2
-    },
-    {
-      "nome": "Teste",
-      "disciplinaId": 3,
-      "id": 3
-    },
-    {
-      "nome": "Teste 2",
-      "disciplinaId": null,
-      "id": 4
+      "id": 2,
+      "nome": "Fabio",
+      "email": "teste@gmail.com",
+      "senha": "teste",
+      "datanasc": "1889-01-15",
+      "altura": 190,
+      "peso": 95,
+      "sexo": "Feminino"
     }
   ]
 }
